@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+/.idea
+*.iml
+
+# Build
+/target
+/out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Others
+*.class
